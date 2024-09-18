@@ -1,0 +1,5 @@
+filters:
+  tag:Stack: ansible-project
+keyed_groups:
+ - key: tags.Name
+ - key: tags.Environment
